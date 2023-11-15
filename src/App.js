@@ -25,7 +25,7 @@ const handleMessaggio = () => {
   return (
     <div className="container">
 
-    <h1 style={{ paddingTop: "120px", color: "white" }}> Per Saretta <span><img src={rose} style={{ width: "30px" }}/></span>🤍</h1>
+    <h1 style={{ paddingTop: "120px", color: "white" }}> Per .... <span><img src={rose} style={{ width: "30px" }}/></span>🤍</h1>
     
       <img src={immagine}  alt="logo" />
  
